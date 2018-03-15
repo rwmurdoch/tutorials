@@ -220,6 +220,6 @@ This is just an exercise to simulate how to address a very focused hypotheiss.  
 1. Remove all existing filters and create a new filter (KO function) for "ChlB", a widely-distributed chlorophyll synthesis gene. 
 2. Click off "normalize" at the top; is there a vertical trend?
 3. Download the gene fragments! (why did I say "gene fragments" and not "genes"?) 
-4. With the filter in place, examine the phylogenetic distrubution of the chlA gene fragments. 
+4. With the filter in place, examine the phylogenetic distrubution of the chlB gene fragments. 
 5. View with and without normalization 
 6. Download some figures (stacked bar charts for example)
