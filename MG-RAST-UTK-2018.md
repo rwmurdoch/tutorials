@@ -217,7 +217,7 @@ Remember that these are only "guesses"; the taxonomy represents the best matches
 This is just an exercise to simulate how to address a very focused hypotheiss.  Let's say I have a general hypothesis that since this is a deep and very still lake, there will be few photosynthesizers at 80m as compared to the surface.  How to address this?  Well, I have to decide which annotations (genes or phylogenies) will best represent "photosynthesizers".  I dug a bit into the literature to locate a widely conserved gene for chlorophyll synthesis and found that KEGG has a single KO group that represents it.  Is this the ultimate solution?  No, but its a start!
 
 #### Exercise 7: Filtering out subsets of data 
-1. Remove all existing filters and create a new filter (KO function) for "ChlA", a widely-distributed chlorophyll synthesis gene. 
+1. Remove all existing filters and create a new filter (KO function) for "ChlB", a widely-distributed chlorophyll synthesis gene. 
 2. Click off "normalize" at the top; is there a vertical trend?
 3. Download the gene fragments! (why did I say "gene fragments" and not "genes"?) 
 4. With the filter in place, examine the phylogenetic distrubution of the chlA gene fragments. 
